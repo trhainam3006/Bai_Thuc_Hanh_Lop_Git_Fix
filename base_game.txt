@@ -6,3 +6,4 @@ add : mainmenu , inventory , settings , credits , leaderboard
 add : assign animations
 Bug fix: bug002
 intergrate Google Admob
+Bug fix: bug003
