@@ -5,3 +5,8 @@ fix : bug001
 add : mainmenu , inventory , settings , credits , leaderboard
 add : assign animations
 Bug fix: bug002
+intergrate Google Admob
+Bug fix: bug003
+intergrate Max Applovin service
+assign animations for characters
+music and sound effect in gameplay
