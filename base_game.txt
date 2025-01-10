@@ -4,3 +4,4 @@ add : assign gameplay-art
 fix : bug001
 add : mainmenu , inventory , settings , credits , leaderboard
 add : assign animations
+Bug fix: bug002
