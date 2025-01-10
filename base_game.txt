@@ -7,3 +7,4 @@ add : assign animations
 Bug fix: bug002
 intergrate Google Admob
 Bug fix: bug003
+intergrate Max Applovin service
