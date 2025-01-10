@@ -9,3 +9,4 @@ intergrate Google Admob
 Bug fix: bug003
 intergrate Max Applovin service
 assign animations for characters
+music and sound effect in gameplay
